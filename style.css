@@ -62,6 +62,16 @@ main {
 
 }
 
+main{
+   width: 100%;
+}
+
+main.img.pequena {
+   width: 50%;
+   display: block;
+   margin: auto;
+}
+
 h1.introdução {
   font-family: 'IDroid';
   color: #1A5A37;
